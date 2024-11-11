@@ -49,7 +49,7 @@ def google_search(query):             # function for Google search
 
 
 def AIprocess(command): 
-    genai.configure(api_key="AIzaSyAYkap6MdWr88LrOlUVAWavn_8SLSMIbxw")
+    genai.configure(api_key="API_KEY")
     model = genai.GenerativeModel("gemini-1.5-flash")
     response = model.generate_content("You are a virtual assistant named jarvis skilled in general tasks like alexa and google cloud who talks like jarvis from ironman and i am your master hridayesh ojha. Give short responses to my commands. "+command)
     responsegiven=response.text.replace("*"," ")
