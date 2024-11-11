@@ -117,7 +117,7 @@ if __name__=="__main__":
                     audio = r.listen(source, phrase_time_limit=10)
                     try:
                         command=r.recognize_google(audio)
-                        if (command=="ok standby"):
+                        if (command=="standby"):
                             processCommand(command)
                             break
                         if(command=="shutdown"):
