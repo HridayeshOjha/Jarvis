@@ -2,23 +2,25 @@
 Jarvis is a Python-based virtual assistant inspired by the AI assistant from the Iron Man series. Designed to provide a versatile and user-friendly experience, Jarvis can perform tasks such as web browsing, time and date retrieval, and general AI-powered responses.
 
 **Features**
-Voice Interaction: Use voice commands to interact with Jarvis.
-Web Browsing: Open websites like Google, YouTube, Spotify, and LinkedIn through simple commands.
-Search Capability: Perform Google searches directly from voice commands.
-Time and Date Retrieval: Get the current time or today's date.
-AI-Powered Responses: Powered by Google's Generative AI, Jarvis provides intelligent responses to general queries.
-Custom Commands: Easily extendable to add more commands or integrate with other APIs.
-Setup Instructions
+- Voice Interaction: Use voice commands to interact with Jarvis.
+- Web Browsing: Open websites like Google, YouTube, Spotify, and LinkedIn through simple commands.
+- Search Capability: Perform Google searches directly from voice commands.
+- Time and Date Retrieval: Get the current time or today's date.
+- AI-Powered Responses: Powered by Google's Generative AI, Jarvis provides intelligent responses to general queries.
+- Custom Commands: Easily extendable to add more commands or integrate with other APIs.
+  
+**Setup Instructions**
 Prerequisites
 Ensure you have the following installed:
 
-Python 3.7 or higher
-speech_recognition library
-pyttsx3 for text-to-speech conversion
-webbrowser module (built-in with Python)
-google.generativeai for AI-powered responses
-Additional dependencies: requests, pygame, gtts
-Installation
+- Python 3.7 or higher
+- speech_recognition library
+- pyttsx3 for text-to-speech conversion
+- webbrowser module (built-in with Python)
+- google.generativeai for AI-powered responses
+- Additional dependencies: requests, pygame, gtts
+  
+**Installation**
 Clone the repository:
 Copy code
 - git clone https://github.com/your-username/jarvis-virtual-assistant.git
