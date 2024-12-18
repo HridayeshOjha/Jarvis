@@ -1,5 +1,5 @@
 **Jarvis - Virtual Assistant**
-Jarvis is a Python-based virtual assistant inspired by the AI assistant from the Iron Man series. Designed to provide a versatile and user-friendly experience, Jarvis can perform tasks such as web browsing, time and date retrieval, and general AI-powered responses.
+- Jarvis is a Python-based virtual assistant inspired by the AI assistant from the Iron Man series. Designed to provide a versatile and user-friendly experience, Jarvis can perform tasks such as web browsing, time and date retrieval, and general AI-powered responses.
 
 **Features**
 - Voice Interaction: Use voice commands to interact with Jarvis.
