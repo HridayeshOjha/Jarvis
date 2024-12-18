@@ -27,15 +27,11 @@ Copy code
 - cd jarvis-virtual-assistant
 
 Install the required Python packages:
-
 Copy code
-- pip install -r requirements.txt
 - Set up your API key for Google's Generative AI:
-
 - Replace YOUR_API_KEY in the code with your API key.
-Run the script:
 
-Copy code
+Run the script:
 - python jarvis_main.py
 How to Use
 - Speak the wake word "Jarvis" to activate the assistant.
@@ -50,7 +46,6 @@ How to Use
 Copy code
 .
 - ├── jarvis_main.py    # Main script for the assistant
-- ├── requirements.txt  # Python dependencies
 - └── README.md         # Project documentation
 
 Future Improvements
