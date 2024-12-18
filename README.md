@@ -45,12 +45,14 @@ How to Use
 - "What's the time?"
 - "Shutdown"
 - To stop Jarvis, use the command "Shutdown" or terminate the program manually.
-File Structure
+
+**File Structure**
 Copy code
 .
-├── jarvis_main.py    # Main script for the assistant
-├── requirements.txt  # Python dependencies
-└── README.md         # Project documentation
+- ├── jarvis_main.py    # Main script for the assistant
+- ├── requirements.txt  # Python dependencies
+- └── README.md         # Project documentation
+
 Future Improvements
 Add support for music playback from a predefined library.
 Integrate with additional APIs for more functionality (e.g., smart home control).
@@ -58,5 +60,3 @@ Enhance voice recognition accuracy with noise suppression.
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-License
-This project is licensed under the MIT License.
